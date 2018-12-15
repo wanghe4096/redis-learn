@@ -1,0 +1,3 @@
+[submodule "redis-3.0-annotated"]
+	path = redis-3.0-annotated
+	url = https://github.com/huangz1990/redis-3.0-annotated
